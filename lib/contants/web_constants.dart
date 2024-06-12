@@ -6,4 +6,5 @@ class WebConstants {
   static const String prodBaseUrl = "https://fakestoreapi.com/";
   static const String getAlbumsList = "${devBaseUrl}albums/";
   static const String getProductsList = "${prodBaseUrl}products";
+  static const String getProductsDetails = "${prodBaseUrl}products";
 }

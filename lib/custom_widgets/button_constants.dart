@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 
-Widget rectangleRoundedCornerButton(String btnTitle, Function onClick, {Color btnBGColor = Colors.purple}) {
+Widget rectangleRoundedCornerButton(String btnTitle, Function onClick, {Color btnBGColor = Colors.orange}) {
   return ElevatedButton(
       onPressed: (){
         onClick();
