@@ -84,7 +84,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 child: Text(TextConstants.loginText)),
             rectangleRoundedCornerButton(
-                "Sign In",
+                "Login",
               (){
                   print("Sign IN button clicked");
                 }
