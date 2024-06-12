@@ -96,7 +96,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 btnBGColor: Colors.blue),
 
-            customTextInputField("Username"),
+            customTextInputField("Email Address"),
             customTextInputField("Password"),
           ],
         ),
