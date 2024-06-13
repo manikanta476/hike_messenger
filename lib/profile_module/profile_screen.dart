@@ -57,7 +57,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
      */
     //========================================================
 
-    int? bashaMarks = studentMarks["Basha"];
+    int? bashaMarks = studentMarks["Basha123"];
     print("basha marks are $bashaMarks");
 
 
